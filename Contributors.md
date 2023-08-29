@@ -395,6 +395,7 @@ TJanz
 - [Dhruvabhat24](https://github.com/Dhruvabhat24)
 - [Dane Becker](https://github.com/DaneBex)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
+- [Laasya G] (https://github.com/laasyag)
 - [Brijesh Roy](https://github.com/brijeshroy)
 - [Moncef Meharzi](https://github.com/Moncef-Mhz)
 - [Raj sharma](https://github.com/lluciferr)
